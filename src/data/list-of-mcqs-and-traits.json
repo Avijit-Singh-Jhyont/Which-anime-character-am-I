@@ -1,0 +1,364 @@
+{
+  "questions":[
+    {
+      "id":1,
+      "que":"You're in a Dungeon and a Mysterious Figure Suddenly Appears and Says Hello. How Do You React?",
+      "optionsAndTraits":[
+        {
+          "option":"A",
+          "ans":"A) Charge at them with your weapon drawn!",
+          "traits":["aggressive", "impulsive", "adventurous"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Analyze their body language and intentions.",
+          "traits":["analytical", "cautious", "observant"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Use stealth to hide and observe them.",
+          "traits":["cautious", "introverted", "stealthy"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Team up and ask, \"Do you know the way out?\"",
+          "traits":["cooperative", "social", "friendly"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Try to negotiate or trade with them.",
+          "traits":["diplomatic", "strategic", "persuasive"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Cast an illusion to distract them and escape.",
+          "traits":["creative", "deceptive", "innovative"]
+        }        
+      ]
+    },
+    {
+      "id":2,
+      "que":"How Do You Usually Like to Spend Your Free Time?",
+      "optionsAndTraits":[
+        {
+          "option":"A",
+          "ans":"A) Engaging in physical activities or sports.",
+          "traits":["active", "energetic", "sporty", "energetic", "sporty"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Diving into a good book or solving complex puzzles.",
+          "traits":["focused", "curious", "intellectual"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Planning the ultimate prank on your best friend.",
+          "traits":["cooperative", "social", "friendly", "mischievous", "playful", "humorous"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Volunteering at a local animal shelter or food bank.",
+          "traits":["altruistic", "compassionate", "generous"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Creating art or music.",
+          "traits":["artistic", "creative", "expressive"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Traveling and exploring new places.",
+          "traits":["adventurous", "curious", "open-minded"]
+        }        
+      ]
+    },
+    {
+      "id":3,
+      "que":"You Discover a Hidden Door in Your Grandfather's Study. What Do You Do Next?",
+      "optionsAndTraits":[
+        {
+          "option":"A",
+          "ans":"A) Kick it open and explore what's inside.",
+          "traits":["selfish", "dramatic", "passionate", "stoic", "melancholic"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Alert the authorities or experts about the discovery.",
+          "traits":["tough", "psychopathic", "self-doubting", "driven", "violent"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Dare a friend to go in first.",
+          "traits":["cooperative", "social", "friendly", "introverted", "competitive"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Seal it back up to prevent any potential danger.",
+          "traits":["resourceful", "amused", "adaptable", "introverted", "timid"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Take photos and research its history.",
+          "traits":["mature-for-Age", "intuitive", "emotionally-Intense", "responsible", "introverted"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Call a family meeting to discuss it.",
+          "traits":["respectful", "asocial", "calculative", "apathetic", "cautious"]
+        }        
+      ]
+    },
+    {
+      "id":4,
+      "que":"If You Were to Stumble Upon a Magical Artifact, What Kind of Companion Would You Wish for?",
+      "optionsAndTraits":[
+        {
+          "option":"A",
+          "ans":"A) A fierce dragon to amplify your newfound powers.",
+          "traits":["strong-willed", "unstable", "egotistical", "quick-witted", "calm"]
+        },
+        {
+          "option":"B",
+          "ans":"B) A wise mentor to guide you in using the artifact responsibly.",
+          "traits":["artistic", "creative", "expressive", "observant", "emotionally-Reserved"]
+        },
+        {
+          "option":"C",
+          "ans":"C) A mischievous imp to keep things unpredictable.",
+          "traits":["logical", "deadpan", "strategic-thinker", "affectionate", "regretful"]
+        },
+        {
+          "option":"D",
+          "ans":"D) A guardian angel to protect you.",
+          "traits":["sardonic", "responsible", "calm-Under-Pressure", "anxious"]
+        },
+        {
+          "option":"E",
+          "ans":"E) A talking animal to find hidden treasures.",
+          "traits":["hardworking", "innocent", "strong-willed", "impulsive", "humorous"]
+        },
+        {
+          "option":"F",
+          "ans":"F) A shape-shifting friend to adapt to any situation.",
+          "traits":["cooperative", "social", "friendly", "caring", "disciplined"]
+        }        
+      ]
+    },
+    {
+      "id":5,
+      "que":"Imagine You're Offered a One-Time Chance to Gain a Superpower, But It Comes With a Price. What Do You Choose?",
+      "optionsAndTraits":[
+        {
+          "option":"A",
+          "ans":"A) Super Strength, but you can never lie again.",
+          "traits":["lazy", "artistic", "brash", "flirtatious", "reluctant-leader"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Telepathy, but you'll forget a cherished memory.",
+          "traits":["materialistic", "choleric", "assertive", "social", "supportive"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Invisibility, but you lose your sense of taste.",
+          "traits":["decisive", "stoic", "playful", "imaginative", "resolute"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Healing powers, but you age twice as fast.",
+          "traits":["selfless", "seductive", "strong-willed", "reserved", "creative"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Time travel, but you can't change the past.",
+          "traits":["cunning", "maternal", "brave", "vengeful", "prideful"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Telekinesis, but you can't speak for a day each time you use it.",
+          "traits":["cautious", "anxious", "observant", "resilient", "Cruel"]
+        }        
+      ]
+    },
+    {
+      "id": 6,
+      "que": "You teleport to a parallel universe and bump into your dream celebrity. What magical memento do you ask for?",
+      "optionsAndTraits": [
+        {
+            "option": "A",
+            "ans": "A) A selfie that grants wishes!",
+            "traits": ["adventurous","optimistic","materialistic","practical"]
+        },
+        {
+            "option": "B",
+            "ans": "B) A conversation captured in a magic crystal.",
+            "traits": ["intellectual","curious","nostalgic","sensitive"]
+        },
+        {
+            "option": "C",
+            "ans": "C) An enchanted autograph that boosts confidence.",
+            "traits": ["confident","ambitious","optimistic","practical"]
+        },
+        {
+            "option": "D",
+            "ans": "D) A potion to relive this moment whenever you want.",
+            "traits": ["nostalgic","emotional","sensitive"]
+        },
+        {
+            "option": "E",
+            "ans": "E) A map to teleport between worlds!",
+            "traits": ["adventurous","curious","independent","practical"]
+        },
+        {
+            "option": "F",
+            "ans": "F) Challenge them to a magical duel for eternal fame!",
+            "traits": ["competitive","aggressive","ambitious","daring"]
+        }
+      ]
+  },
+  {
+    "id": 7,
+    "que": "A genie offers you three wishes. What's your first wish?",
+    "optionsAndTraits": [
+        {
+            "option": "A",
+            "ans": "A) Infinite wealth.",
+            "traits": ["materialistic","practical","self-centered","ambitious"]
+        },
+        {
+            "option": "B",
+            "ans": "B) World peace.",
+            "traits": ["altruistic","compassionate","idealistic","sensitive"]
+        },
+        {
+            "option": "C",
+            "ans": "C) Superpowers.",
+            "traits": ["adventurous","ambitious","confident","daring"]
+        },
+        {
+            "option": "D",
+            "ans": "D) Bringing a loved one back to life.",
+            "traits": ["emotional","sensitive","loyal","sensitive"]
+        },
+        {
+            "option": "E",
+            "ans": "E) No wishes, it's too risky.",
+            "traits": ["cautious","practical","skeptical","contemplative"]
+        },
+        {
+            "option": "F",
+            "ans": "F) The power to speak all languages fluently.",
+            "traits": ["intellectual","curious","social","open-minded"]
+        }
+    ]
+  },
+  {
+    "id": 8,
+    "que": "You're teleported into a virtual world where you can rewrite the game's code. What's your first 'patch'?",
+    "optionsAndTraits": [
+        {
+            "option": "A",
+            "ans": "A) Code in a time-travel feature!",
+            "traits": ["adventurous","curious","risk-taking","innovative"]
+        },
+        {
+            "option": "B",
+            "ans": "B) Create a secret level only you can access.",
+            "traits": ["introverted","curious","secretive","sensitive"]
+        },
+        {
+            "option": "C",
+            "ans": "C) Remove all the game's obstacles. Easy win!",
+            "traits": ["lazy","practical","self-centered","contemplative"]
+        },
+        {
+            "option": "D",
+            "ans": "D) Add an AI companion for lonely players.",
+            "traits": ["altruistic","compassionate","social","sensitive"]
+        },
+        {
+            "option": "E",
+            "ans": "E) Introduce unpredictable plot twists.",
+            "traits": ["creative","innovative","unpredictable","open-minded"]
+        },
+        {
+            "option": "F",
+            "ans": "F) Code in an Easter Egg that unlocks a dance-off mode!",
+            "traits": ["playful","energetic","social","open-minded"]
+        }
+    ]
+  },
+  {
+    "id": 9,
+    "que": "You wake up as a billionaire in a medieval fantasy realm. What's your grandest venture?",
+    "optionsAndTraits": [
+        {
+            "option": "A",
+            "ans": "A) Build a dragon-protected fortress.",
+            "traits": ["defensive","practical","materialistic","contemplative"]
+        },
+        {
+            "option": "B",
+            "ans": "B) Establish a school of magic.",
+            "traits": ["intellectual","innovative","idealistic","open-minded"]
+        },
+        {
+            "option": "C",
+            "ans": "C) Create a teleporting network between realms.",
+            "traits": ["adventurous","innovative","independent","daring"]
+        },
+        {
+            "option": "D",
+            "ans": "D) Organize grand tournaments with mythical prizes.",
+            "traits": ["social","gentle","confident","open-minded"]
+        },
+        {
+            "option": "E",
+            "ans": "E) Invest in alchemy to find the elixir of life.",
+            "traits": ["curious","intellectual","optimistic","innovative"]
+        },
+        {
+            "option": "F",
+            "ans": "F) Commission a fleet of airships for sky exploration.",
+            "traits": ["adventurous","curious","optimistic","open-minded"]
+        }
+    ]
+  },
+  {
+    "id": 10,
+    "que": "You can transform into a mythical creature for a cosmic adventure. Who do you become?",
+    "optionsAndTraits": [
+        {
+            "option": "A",
+            "ans": "A) Dragon - To explore fiery nebulae!",
+            "traits": ["adventurous","aggressive","confident","daring"]
+        },
+        {
+            "option": "B",
+            "ans": "B) Phoenix - To dance on the surface of stars!",
+            "traits": ["energetic","optimistic","creative","open-minded"]
+        },
+        {
+            "option": "C",
+            "ans": "C) Mermaid/Merman - To discover hidden ocean planets!",
+            "traits": ["curious","adventurous","intellectual","open-minded"]
+        },
+        {
+            "option": "D",
+            "ans": "D) Centaur - To race on the rings of Saturn!",
+            "traits": ["energetic","confident","practical","daring"]
+        },
+        {
+            "option": "E",
+            "ans": "E) Griffin - To guard a cosmic treasure!",
+            "traits": ["defensive","loyal","practical","contemplative"]
+        },
+        {
+          "option": "F",
+          "ans": "F) Kitsune - To master the art of illusions.",
+          "traits": ["creative","innovative","deceptive","daring"]
+      }
+    ]
+  }
+  ]
+}
